@@ -24,4 +24,11 @@
 
 .liquid h2:nth-child(1) {
   color: #fff;
+  text-shadow: -2px 2px 0px #183954, -4px 4px 0px #183954, -6px 6px 0px #183954,
+    -8px 8px 0px #183954, -18px 18px 20px rgba(0, 0, 0, 0.5),
+    -18px 18px 50px rgba(0, 0, 0, 0.5);
+}
+
+.liquid h2:nth-child(2) {
+  color: #2196f3;
 }
