@@ -21,3 +21,7 @@
   position: absolute;
   font-size: 26vw;
 }
+
+.liquid h2:nth-child(1) {
+  color: #fff;
+}
